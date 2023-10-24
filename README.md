@@ -34,6 +34,7 @@ This code is also designed to work on TI-Nspire calculators. Here's how you can 
 ## Author
 
 Ardou - Armand Walle
+[Website](https://armand-walle.com)
 
 ## License
 
